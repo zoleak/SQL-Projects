@@ -1,3 +1,3 @@
-# airbnb-analytics
+# SQL Projects
 ## Overview
-The following SQL script was used to gain insights from airbnb review data located from the following [website](http://insideairbnb.com)
+The following folders showcase different SQL projects I have completed. 
